@@ -1,4 +1,4 @@
-# CNN-LeNet
+# CNN_LeNet-5
 Implémentation prediction des symboles arabe utilisant LeNet
 
 to computerize ancient printed Arabic books through computers to facilitate discussion and research as there are millions of books which have scientific and historical value, entering these printed books manually is very costly and requires great effort.
